@@ -27,11 +27,12 @@
 3. **Inmutabilidad**: Actualización de estados mediante el operador spread (`...`) para garantizar un flujo de datos predecible y evitar errores de renderizado.
 
 Futuras ideas ah añadir para escalar el proyecto:
-Añadir Categorías: Filtrar webs por "E-commerce", "SaaS" o "Landing Page".
 
-Subir Imágenes: Permitir que el usuario pegue una captura de pantalla de la web analizada.
+- Añadir Categorías: Filtrar webs por "E-commerce", "SaaS" o "Landing Page".
 
-Exportar a PDF: Generar un informe con los resultados del análisis.
+- Subir Imágenes: Permitir que el usuario pegue una captura de pantalla de la web analizada.
+
+- Exportar a PDF: Generar un informe con los resultados del análisis.
 
 
 ## 📦 Instalación
